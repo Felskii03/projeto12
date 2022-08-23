@@ -1,0 +1,9 @@
+body{
+    margin: 50px;
+    background-color: deepskyblue;
+    color: black;
+}
+
+canvas{
+    display: block;
+}
